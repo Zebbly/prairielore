@@ -1,0 +1,35 @@
+
+h1{
+	font-size: 64px;
+	color:white;
+	background-color:black;
+	text-align:center;
+}
+a{
+	font-size: 32px;
+	color:white;
+	background-color:black;
+	text-align:center;
+	vertical-align: middle;
+}
+
+p{
+	padding-top: ;
+	padding-left:device-width/2;
+}
+body
+{
+    background-image: url('background.jpg');
+	background-size: 600px 400px;
+}
+
+section
+{
+	size:device-height device-width;
+	
+}
+
+.myDiv 
+{
+	size:device-height device-width;
+}
